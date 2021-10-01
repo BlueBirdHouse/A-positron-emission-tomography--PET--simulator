@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-The toolbox provides handy tools to study filtering technology, e.g., Kalman
+The simulator provides handy tools to study filtering technology, e.g., Kalman
 filter, ensemble Kalman filter, and $H_{\infty }$ filter. The interface is also reserved for
 other estimation technologies, such as expectation-maximization (E-M) and
 filtered back projection (FBP) algorithms. It simulates a PET system and
